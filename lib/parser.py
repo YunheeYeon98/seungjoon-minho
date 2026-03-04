@@ -421,7 +421,7 @@ class SubscriptionParser:
             if not line or line.startswith('#'):
                 continue
             
-            config = self.proxy_parser.parse('vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.108.135:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&sni=yandex.com#0340 | 🇳🇱 Netherlands | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu')
+            config = self.proxy_parser.parse(line)
             if config and config.normalized_link not in seen:
                 seen.add(config.normalized_link)
                 configs.append(config)
