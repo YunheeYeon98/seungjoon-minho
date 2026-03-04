@@ -1,0 +1,31 @@
+2026-03-04 22:11:54 - lib.logger - INFO - Loaded 1 from https://storage.yandexcloud.net/cid-vpn/whitelist.txt
+2026-03-04 22:11:55 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/1
+2026-03-04 22:11:55 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/2
+2026-03-04 22:11:56 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/archived
+2026-03-04 22:11:56 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/cidr
+2026-03-04 22:11:56 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/cidryandex
+2026-03-04 22:11:56 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/cidrvk
+2026-03-04 22:11:57 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/gemini
+2026-03-04 22:11:57 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/main
+2026-03-04 22:11:57 - lib.logger - ERROR - Failed to load https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/hotmain: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/hotmain
+2026-03-04 22:11:57 - lib.logger - INFO - Loaded 0 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/hotmain
+2026-03-04 22:11:57 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/vless
+2026-03-04 22:11:57 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/youtube
+2026-03-04 22:11:57 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/ytm
+2026-03-04 22:11:57 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/other
+2026-03-04 22:11:57 - lib.logger - INFO - Checking vless://87.229.108.135:5443
+2026-03-04 22:11:57 - lib.logger - DEBUG - ✓ http://www.google.com/generate_204 - 46ms
+2026-03-04 22:11:58 - lib.logger - DEBUG - ✓ http://www.google.com/generate_204 - 38ms
+2026-03-04 22:11:58 - lib.logger - DEBUG - ✓ http://www.cloudflare.com/cdn-cgi/trace - 56ms
+2026-03-04 22:11:58 - lib.logger - DEBUG - ✓ http://www.cloudflare.com/cdn-cgi/trace - 35ms
+2026-03-04 22:12:00 - lib.logger - DEBUG - Geo located 52.176.124.178: United States, Des Moines
+2026-03-04 22:12:00 - lib.logger - INFO - Running speedtest for 87.229.108.135
+2026-03-04 22:12:06 - lib.logger - INFO - [1/1] ✅ vless://87.229.108.135 (40ms, 18.2Mbps, United States)
+2026-03-04 22:12:06 - lib.logger - INFO - 
+✅ Working: 1/1
+2026-03-04 22:12:06 - lib.logger - INFO - Exported 1 results to /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.txt
+2026-03-04 22:12:06 - lib.logger - INFO - Exported 1 results to /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.json
+2026-03-04 22:12:06 - lib.logger - INFO - ✅ Exported txt: /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.txt
+2026-03-04 22:12:06 - lib.logger - INFO - ✅ Exported json: /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.json
+2026-03-04 22:12:06 - lib.logger - INFO - 
+⏱️  Time: 12.0s
