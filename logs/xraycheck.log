@@ -145,3 +145,39 @@
 2026-03-06 05:01:44 - lib.logger - INFO - ✅ Exported json: /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.json
 2026-03-06 05:01:44 - lib.logger - INFO - 
 ⏱️  Time: 18.1s
+2026-03-07 04:45:41 - lib.logger - ERROR - Failed to load https://storage.yandexcloud.net/cid-vpn/whitelist.txt: 403 Client Error: Forbidden for url: https://storage.yandexcloud.net/cid-vpn/whitelist.txt
+2026-03-07 04:45:41 - lib.logger - INFO - Loaded 0 from https://storage.yandexcloud.net/cid-vpn/whitelist.txt
+2026-03-07 04:45:41 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/1
+2026-03-07 04:45:41 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/2
+2026-03-07 04:45:42 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/archived
+2026-03-07 04:45:42 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/cidr
+2026-03-07 04:45:42 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/cidryandex
+2026-03-07 04:45:42 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/cidrvk
+2026-03-07 04:45:42 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/gemini
+2026-03-07 04:45:42 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/main
+2026-03-07 04:45:43 - lib.logger - ERROR - Failed to load https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/hotmain: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/hotmain
+2026-03-07 04:45:43 - lib.logger - INFO - Loaded 0 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/hotmain
+2026-03-07 04:45:43 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/vless
+2026-03-07 04:45:43 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/youtube
+2026-03-07 04:45:43 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/ytm
+2026-03-07 04:45:43 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/other
+2026-03-07 04:45:43 - lib.logger - INFO - Checking vless://localhost:444
+2026-03-07 04:45:43 - lib.logger - INFO - Checking vless://fr.imsoon.net:8080
+2026-03-07 04:45:43 - lib.logger - DEBUG - ✓ http://www.google.com/generate_204 - 16ms
+2026-03-07 04:45:43 - lib.logger - DEBUG - ✓ http://www.google.com/generate_204 - 16ms
+2026-03-07 04:45:43 - lib.logger - DEBUG - ✓ http://www.cloudflare.com/cdn-cgi/trace - 28ms
+2026-03-07 04:45:43 - lib.logger - DEBUG - ✓ http://www.cloudflare.com/cdn-cgi/trace - 17ms
+2026-03-07 04:45:45 - lib.logger - DEBUG - Geo located 20.109.38.161: United States, Boydton
+2026-03-07 04:45:45 - lib.logger - INFO - Running speedtest for fr.imsoon.net
+2026-03-07 04:45:45 - lib.logger - DEBUG - Geo located 20.109.38.161: United States, Boydton
+2026-03-07 04:45:45 - lib.logger - INFO - Running speedtest for localhost
+2026-03-07 04:45:51 - lib.logger - INFO - [1/2] ✅ vless://fr.imsoon.net (18ms, 31.8Mbps, United States)
+2026-03-07 04:45:51 - lib.logger - INFO - [2/2] ✅ vless://localhost (17ms, 29.1Mbps, United States)
+2026-03-07 04:45:51 - lib.logger - INFO - 
+✅ Working: 2/2
+2026-03-07 04:45:51 - lib.logger - INFO - Exported 2 results to /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.txt
+2026-03-07 04:45:51 - lib.logger - INFO - Exported 2 results to /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.json
+2026-03-07 04:45:51 - lib.logger - INFO - ✅ Exported txt: /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.txt
+2026-03-07 04:45:51 - lib.logger - INFO - ✅ Exported json: /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.json
+2026-03-07 04:45:51 - lib.logger - INFO - 
+⏱️  Time: 10.6s

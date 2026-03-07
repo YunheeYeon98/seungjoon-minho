@@ -1,5 +1,5 @@
-# XRayCheck Results - 2026-03-06 05:01:44
+# XRayCheck Results - 2026-03-07 04:45:51
 # Total: 2, Working: 2, Failed: 0
 # ==================================================
-vless://35b82948-ae78-487a-9ec6-d65e749b5695@ll2.takovpn.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=GacPaW0DxNTA8vpoEv7CpGBAu_atzYMBaryAuwcw70M&sid=9cfa7d0980&sni=sun6-20.userapi.com&spx=/ul0u2ksRzKRI6aE # 24ms 7.4Mbps United States
-vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu # 24ms 7.4Mbps United States
+vless://75042b57-b5cb-47e5-b247-c824c2fdc6b6@fr.imsoon.net:8080?type=tcp&security=none&encryption=none&headerType=none # 18ms 31.8Mbps United States
+vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu # 17ms 29.1Mbps United States
