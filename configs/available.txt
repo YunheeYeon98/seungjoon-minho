@@ -1,5 +1,6 @@
-# XRayCheck Results - 2026-03-07 04:45:51
-# Total: 2, Working: 2, Failed: 0
+# XRayCheck Results - 2026-03-08 05:01:38
+# Total: 3, Working: 3, Failed: 0
 # ==================================================
-vless://75042b57-b5cb-47e5-b247-c824c2fdc6b6@fr.imsoon.net:8080?type=tcp&security=none&encryption=none&headerType=none # 18ms 31.8Mbps United States
-vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu # 17ms 29.1Mbps United States
+vless://792adea77a684201b13f85084a00287e@45.151.62.132:8443/?type=xhttp&encryption=none&flow=&path=%2Fx&mode=auto&sni=ya.ru&fp=random&security=reality&pbk=pbvLeT8R8bA8isPIi1JNbSAz7zM3GFkTLkDinP8ilnU&sid=aabbccdd#0001 - Ð£Ð½Ð¸Ð²ÐµÑÑÐ°Ð»ÑÐ½ÑÐ¹ | ya.ru | @CID_VPN # 9ms 46.0Mbps United States
+vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000 | TG: @YoutubeUnBlockRu # 8ms 21.7Mbps United States
+vless://a8165b7a-3e4f-44d0-ac9b-f648ec1cea95@212.233.73.212:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&sni=m.vk.ru # 9ms 16.5Mbps United States
