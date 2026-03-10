@@ -261,3 +261,43 @@
 2026-03-09 05:13:11 - lib.logger - INFO - ✅ Exported json: /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.json
 2026-03-09 05:13:11 - lib.logger - INFO - 
 ⏱️  Time: 16.6s
+2026-03-10 05:00:21 - lib.logger - DEBUG - Failed to parse: ï»¿#profile-update-interval: 1...
+2026-03-10 05:00:21 - lib.logger - INFO - Loaded 1 from https://storage.yandexcloud.net/cid-vpn/whitelist.txt
+2026-03-10 05:00:21 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/1
+2026-03-10 05:00:21 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/2
+2026-03-10 05:00:22 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/archived
+2026-03-10 05:00:23 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/cidr
+2026-03-10 05:00:23 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/cidryandex
+2026-03-10 05:00:23 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/cidrvk
+2026-03-10 05:00:23 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/gemini
+2026-03-10 05:00:24 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/main
+2026-03-10 05:00:24 - lib.logger - ERROR - Failed to load https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/hotmain: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/hotmain
+2026-03-10 05:00:24 - lib.logger - INFO - Loaded 0 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/hotmain
+2026-03-10 05:00:24 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/vless
+2026-03-10 05:00:24 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/youtube
+2026-03-10 05:00:25 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/ytm
+2026-03-10 05:00:25 - lib.logger - INFO - Loaded 1 from https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/other
+2026-03-10 05:00:25 - lib.logger - INFO - Checking vless://45.151.62.132:8443
+2026-03-10 05:00:25 - lib.logger - INFO - Checking vless://localhost:444
+2026-03-10 05:00:25 - lib.logger - INFO - Checking vless://84.201.157.100:443
+2026-03-10 05:00:25 - lib.logger - DEBUG - ✓ http://www.google.com/generate_204 - 33ms
+2026-03-10 05:00:25 - lib.logger - DEBUG - ✓ http://www.google.com/generate_204 - 25ms
+2026-03-10 05:00:25 - lib.logger - DEBUG - ✓ http://www.cloudflare.com/cdn-cgi/trace - 47ms
+2026-03-10 05:00:25 - lib.logger - DEBUG - ✓ http://www.cloudflare.com/cdn-cgi/trace - 34ms
+2026-03-10 05:00:28 - lib.logger - DEBUG - Geo located 52.173.237.210: United States, Des Moines
+2026-03-10 05:00:28 - lib.logger - DEBUG - Geo located 52.173.237.210: United States, Des Moines
+2026-03-10 05:00:28 - lib.logger - INFO - Running speedtest for 84.201.157.100
+2026-03-10 05:00:28 - lib.logger - INFO - Running speedtest for localhost
+2026-03-10 05:00:28 - lib.logger - DEBUG - Geo located 52.173.237.210: United States, Des Moines
+2026-03-10 05:00:28 - lib.logger - INFO - Running speedtest for 45.151.62.132
+2026-03-10 05:00:33 - lib.logger - INFO - [1/3] ✅ vless://45.151.62.132 (34ms, 25.0Mbps, United States)
+2026-03-10 05:00:33 - lib.logger - INFO - [2/3] ✅ vless://84.201.157.100 (35ms, 28.5Mbps, United States)
+2026-03-10 05:00:33 - lib.logger - INFO - [3/3] ✅ vless://localhost (34ms, 24.7Mbps, United States)
+2026-03-10 05:00:33 - lib.logger - INFO - 
+✅ Working: 3/3
+2026-03-10 05:00:33 - lib.logger - INFO - Exported 3 results to /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.txt
+2026-03-10 05:00:33 - lib.logger - INFO - Exported 3 results to /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.json
+2026-03-10 05:00:33 - lib.logger - INFO - ✅ Exported txt: /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.txt
+2026-03-10 05:00:33 - lib.logger - INFO - ✅ Exported json: /home/runner/work/seungjoon-minho/seungjoon-minho/configs/available.json
+2026-03-10 05:00:33 - lib.logger - INFO - 
+⏱️  Time: 13.5s
